@@ -1,0 +1,25 @@
+/* Your Front Style */
+/* The alert message box */
+.wab-alert-front {
+    padding: 15px 20px;
+    background-color: #EAEAEA; /* Red */
+    color: #242424;
+    margin-bottom: 15px;
+  }
+  
+  /* The close button */
+  .wab-front-closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 40px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .wab-front-closebtn:hover {
+    color: black;
+  } 
